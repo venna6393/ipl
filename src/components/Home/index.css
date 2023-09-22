@@ -1,0 +1,97 @@
+.bg {
+  background-image: URL('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+  height: 120vh;
+  background-size: cover;
+  padding: 50px;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.card-1 {
+  display: flex;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Bree serif';
+}
+.img {
+  width: 50px;
+}
+.ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  color: white;
+  font-family: 'Bree serif';
+  width: 900px;
+}
+.img1 {
+  width: 50px;
+}
+.li {
+  display: flex;
+  padding: 20px;
+  border-width: 3px;
+  border-color: white;
+  border-style: solid;
+  border-radius: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  width: 400px;
+  text-decoration: none;
+}
+
+.h1 {
+  font-size: 22px;
+  margin-left: 20px;
+  color: white;
+}
+.bg1 {
+  padding: 50px;
+  background-color: brown;
+  height: 300vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.card-4-1 {
+  background-color: black;
+  color: white;
+  font-family: 'Bree serif';
+  display: flex;
+  padding: 40px;
+  border-radius: 25px;
+  margin-top: 30px;
+  align-items: center;
+}
+.img4 {
+  width: 150px;
+}
+.card-4-2 {
+  margin-right: 30px;
+}
+.img4 {
+  margin-right: 30px;
+  margin-left: 30px;
+}
+.ul2 {
+  display: flex;
+  color: white;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+.card-5-2 {
+  margin-right: 30px;
+  margin-bottom: 20px;
+  width: 250px;
+}
+.img5 {
+  width: 100px;
+}
+.card-5 {
+  display: flex;
+  justify-content: center;
+  padding-left: 30px;
+}
